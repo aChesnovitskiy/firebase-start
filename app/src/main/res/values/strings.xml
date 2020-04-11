@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase Start</string>
+
+    <string name="firstName">First name:</string>
+    <string name="lastName">Last name:</string>
+    <string name="age">Age:</string>
+    <string name="sex">Sex:</string>
+</resources>
